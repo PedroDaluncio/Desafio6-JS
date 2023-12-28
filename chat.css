@@ -99,7 +99,8 @@ p{
 #novaMensagem{
     display: inline-block;
     width: inherit;
-    max-width: inherit;
+    max-width : 40ch;
+    word-wrap : break-word;
 }
 
 #DigitarMensagem {
